@@ -32,7 +32,7 @@
  <a href="https://www.instagram.com/stroke_4_/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-  <a href="https://www.github/arunopsshield" target="_blank" rel="noreferrer">
+  <a href="https://github.com/arunopsshield" target="_blank" rel="noreferrer">
  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
