@@ -8,21 +8,14 @@
 </p>
 
 ------------------------------------------------------------------------
-<table width="100%">
-<tr>
-<td>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" />
+</p>
+<p align="left">
+* 💻 I work as a Front end Developer
+* 🌏 I’m from Kochi, India
+</p>
 
-* 💻 I work as a Front end Developer  
-* 🌏 I’m from Kochi, India  
-
-</td>
-<td align="right">
-
-<img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" />
-
-</td>
-</tr>
-</table>
 
 
 
