@@ -4,6 +4,10 @@
 * 🌏 I’m from Kochi ,India
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
  ------------------------------------------------------------------------
 
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
@@ -44,10 +48,9 @@
 
 <a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- <a href="https://github.com/arunopsshield" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunopsshield&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a> -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunopsshield&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/arunopsshield)
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 
 
