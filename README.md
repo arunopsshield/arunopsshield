@@ -11,7 +11,7 @@
 * 💻 I work as a Front end Developer
 * 🌏 I’m from Kochi ,India
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
-<br>
+
  ------------------------------------------------------------------------
 
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
