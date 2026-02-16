@@ -12,8 +12,6 @@
 * 🌏 I’m from Kochi ,India
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" alt="arunr-1147" /> </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 
  ------------------------------------------------------------------------
@@ -55,6 +53,7 @@
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
