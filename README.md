@@ -17,8 +17,7 @@
 
  ------------------------------------------------------------------------
 
-<a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
-">### 🎓 Skills</a>
+### 🎓 Skills
 </br>
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/TAILWINDCSS-lightblue.svg?style=for-the-badge&logo=tailwindCss&logoColor=lightblue?
 ) ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) ![FIGMA](https://img.shields.io/badge/figma-%23E23237.svg?style=for-the-badge&logo=figma&logoColor=white) ![PROCREATE](https://img.shields.io/badge/procreate-%23DD0031.svg?style=for-the-badge&logo=procreate&logoColor=white) ![Primereact](https://img.shields.io/badge/primereact-%2320232a.svg?style=for-the-badge&logo=primereact&logoColor=%2361DAFB)  ![Angular Material](https://img.shields.io/badge/materialUI-%23007ACC.svg?style=for-the-badge&logo=angularmaterial&logoColor=white)   ![PrimeNg](https://img.shields.io/badge/primeng-%2320232a.svg?style=for-the-badge&logo=primeng&logoColor=%2361DAFB)
@@ -26,7 +25,7 @@
 
  ------------------------------------------------------------------------
 
-#### 🌱 I’m currently learning these...
+### 🌱 I’m currently learning these...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 
@@ -54,7 +53,7 @@
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -67,7 +66,7 @@
 
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=react-dark)](https://github.com/arunopsshield)
+ [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=react-dark)](https://github.com/arunopsshield)
 
 
 
