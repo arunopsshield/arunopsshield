@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Hi, I'mArun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Frontend%20developer;Always%20learning%20new%20tech;5+%20years%20of%20experience%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
@@ -51,8 +51,11 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5Dstroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
+
+<!-- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravisolanki27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisolanki27&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
