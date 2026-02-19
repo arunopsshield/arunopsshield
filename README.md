@@ -52,15 +52,15 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&theme=react-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="arun"/></a>
+<a href="https://github.com/arunopsshield"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arunopsshield&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="arun"/></a>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px alt="arun"/></picture>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/arunopsshield">
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arunopsshield&show_icons=true&theme=react-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunopsshield&layout=compact&langs_count=8&theme=react-dark&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arunopsshield&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunopsshield&layout=compact&langs_count=8&theme=gotham&hide_border=true"/>
 </a>
 </p>
 <!-- theme:gotham,algolia,react-dark -->
