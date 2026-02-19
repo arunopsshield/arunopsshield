@@ -59,15 +59,15 @@
 
 <p align="left">
 <a href="https://github.com/arunopsshield">
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arunopsshield&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunopsshield&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arunopsshield&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arunopsshield&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 </p>
 <!-- theme:gotham,algolia -->
 
  ### 📈 Activity Graph
  
- [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=react-dark)](https://github.com/arunopsshield)
+ [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=react-dark&hide_border=true)](https://github.com/arunopsshield)
 
 
 
