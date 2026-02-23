@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=arunopsshield&label=Profile%20views&color=FF6C37&style=flat" />
 </p>
 
-<p align="left"> 💻 I work as a Front end Developer</p>
-* 🌏 I’m from Kochi, India
+<h3 align="left"> 💻 I work as a Front end Developer</h3>
+<h3 align="left">  🌏 I’m from Kochi, India </h3>
 
  ------------------------------------------------------------------------
 
