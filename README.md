@@ -4,7 +4,7 @@
 </h2>
 
 <!-- <p align="center"> -->
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=41F727&width=435&lines=Frontend+Developer+%F0%9F%8E%93;Always+learning+new+techs+%E2%AD%90%EF%B8%8F;5%2B+years+of+experience+%E2%9C%8C%EF%B8%8F;Reach+out+if+you+need+help+%F0%9F%92%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=41F727&center=true&width=435&lines=Frontend+Developer+%F0%9F%8E%93;Always+learning+new+techs+%E2%AD%90%EF%B8%8F;5%2B+years+of+experience+%E2%9C%8C%EF%B8%8F;Reach+out+if+you+need+help+%F0%9F%92%AC)](https://git.io/typing-svg)
   <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20tech;5+%20years%20of%20experience%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a> -->
 <!-- </p> -->
 
