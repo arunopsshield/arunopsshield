@@ -45,7 +45,7 @@
 ### 📫 How to reach me: ...
 <div >
  <a href="mailto:arunraju9837@gmail.com?">
- <img alt="arun's gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ <img alt="arun's gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/arun-raju-05374a1b7" target="_blank" rel="noreferrer">
   <img alt="arun's linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
