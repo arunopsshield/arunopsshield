@@ -79,7 +79,7 @@
 
  ### 📈 Activity Graph
  
- [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=react-dark&hide_border=true)](https://github.com/arunopsshield)
+ [![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arunopsshield&theme=gotham&hide_border=true)](https://github.com/arunopsshield)
 
 
 
